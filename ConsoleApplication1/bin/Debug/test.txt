@@ -1,0 +1,10 @@
+Variables
+ab
+States
+x1 -
+x2 +
+Transition Table
+x1 a x1
+x1 b x2
+x2 a x2
+x2 b x1
